@@ -47,9 +47,9 @@
     <h1>Menu Utama Soal</h1>
     <p>Pilih soal yang ingin dijalankan:</p>
     <ul>
-        <li><a href="soal1.php">Soal 1: Dense Ranking</a></li>
-        <li><a href="soal2.php">Soal 2: Highest Palindrome</a></li>
-        <li><a href="soal3.php">Soal 3: (Belum Ditentukan)</a></li>
+        <li><a href="soal1.php">Soal 1: Kalkulator Deret A000124 of Sloane's OEIS</a></li>
+        <li><a href="soal2.php">Soal 2: Dense Ranking</a></li>
+        <li><a href="soal3.php">Soal 3: Highest Palindrome</a></li>
     </ul>
     <div class="footer">
         Dibuat oleh: Danis Keysara Saputra
