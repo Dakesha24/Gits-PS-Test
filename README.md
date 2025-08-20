@@ -1,5 +1,5 @@
 Tautan
-Akses di: Akses Proyek di Vercel (Ganti dengan URL Vercel Anda setelah deploy)
+Akses di: https://gits-test.gt.tc/
 
 Daftar Soal
 Soal 1: Kalkulator Deret A000124 of Sloane's OEIS (soal1.php)
