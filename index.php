@@ -52,7 +52,7 @@
         <li><a href="soal3.php">Soal 3: Highest Palindrome</a></li>
     </ul>
     <div class="footer">
-        Dibuat oleh: Danis Keysara Saputra
+        Danis Keysara Saputra
     </div>
 </body>
 </html>
